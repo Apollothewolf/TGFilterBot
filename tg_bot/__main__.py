@@ -21,9 +21,9 @@ PM_START_TEXT = """
 
 *Hello* {}, *My Name is* *{}*! 
 
-*This Bot is exclusively made for @moviesonlydiscussion ; мσνιєѕσиℓу™ Team!*
+*This Bot is exclusively made for @MT_officials!*
 
-*Channel:© @moviesonlyhere*
+*Channel:© @ApolloOfficial*
 
 /help for more details..
 """
