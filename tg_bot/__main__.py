@@ -23,7 +23,7 @@ PM_START_TEXT = """
 
 *This Bot is exclusively made for @MT_officials!*
 
-*Channel:© @ApolloOfficial*
+* @ApolloOfficial*
 
 /help for more details..
 """
